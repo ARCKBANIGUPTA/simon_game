@@ -1,0 +1,56 @@
+*{
+    background-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline red 5px wavy;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+
+}
+.box{
+    margin-left: 65vh;
+    height: 475px;
+    width: 475px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.red{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    border: solid black 10px;
+    background-color: red;
+}
+
+.orange{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    border: solid black 10px;
+    background-color: orange;
+}
+
+.purple{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    border: solid black 10px;
+    background-color: purple;
+}
+
+.blue{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    border: solid black 10px;
+    background-color: blue;
+}
+.flash{
+    background-color: azure;
+}
