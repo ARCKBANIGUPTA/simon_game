@@ -1,0 +1,1 @@
+Simon game website using JavaScript, CSS, and HTML. The game challenges players to remember and repeat an increasing sequence of colors and sounds. It features interactive buttons, dynamic styling, and JavaScript logic to handle game progression and user input. 
